@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <ul dir="auto">
-<li>👨🏽‍🎓 I enjoy teaching coding skills and helping students</li>
+<li>👨🏽‍🎓 I enjoy learning all things code 🤖!! </li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I'm currently growing my skills as a developer</li>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I'm constantly learning new skills and <em>striving for progress</em></li>
-<li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Goal: Be the person I needed when I was younger</li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Motto: <em>Keep striving for progress, not perfection</em></li>
+<li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Goal: Be a better person everyday</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Motto: <em>Keep being a better version of me!! </em></li>
 </ul>
 
 
