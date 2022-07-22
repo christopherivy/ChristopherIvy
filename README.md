@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <ul dir="auto">
 <li>👨🏽‍🎓 I enjoy learning all things code</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
-
 📚</g-emoji> I'm constantly learning new skills and <em>striving for progress</em></li>
 <li><g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">
 🏆</g-emoji> Goal: Be a better person everyday</li>
