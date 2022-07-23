@@ -40,6 +40,12 @@ Here are some ideas to get you started:
 <!--REACT-->
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;">
 
+<!--NODE-->
+<div>
+<img align="left" alt="git" width="26px" 
+src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" style="max-width: 100% justify-content: right;">
+</div>
+
 <!--EXPRESS-->
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" style="max-width: 100%;">
 
@@ -52,10 +58,7 @@ Here are some ideas to get you started:
 <!--GIT-->
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;">
 
-<!--NODE-->
-<div>
-<img align="left" alt="git" width="26px" 
-src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-node-logo.png" style="max-width: 100% justify-content: right;">
-</div>
+
+
 
 
