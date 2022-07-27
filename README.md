@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <!--JAVASCRIPT-->
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
 
+<!--BOOTSTRAP-->
+<img align="left" alt="Bootstrap" width="26px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" style="max-width: 100%;">
+
 <!--JQUERY-->
 <img align="left" alt="jQuery" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" style="max-width: 100%;">
 
@@ -59,11 +62,6 @@ src="https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png" style="max-wi
 
 <!--GIT-->
 <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;">
-
-
-
-
-
 
 
 
